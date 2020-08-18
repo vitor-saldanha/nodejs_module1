@@ -5,7 +5,7 @@ const { uuid, isUuid } = require('uuidv4');
 //Iniciar Express
 const app = express();
 
-//Adiciona middleware para que o Express seja capaz e entender o JSON do body
+//Adiciona Middleware para que o Express seja capaz e entender o JSON do body
 app.use(express.json());
 
 /* 

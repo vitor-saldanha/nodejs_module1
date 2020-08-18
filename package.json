@@ -1,16 +1,18 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "main": "src/index.js",
-  "license": "MIT",
-  "scripts": {
-    "dev": "nodemon"
-  },
-  "dependencies": {
-    "express": "^4.17.1",
-    "uuidv4": "^6.2.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  }
+	"name": "nodejs",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"license": "MIT",
+	"scripts": {
+		"dev": "nodemon"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"uuidv4": "^6.2.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.4"
+	},
+	"repository": "https://github.com/vitor-saldanha/bootcamp-gostack",
+	"author": "Vitor Saldanha <vitor.saldanha11@gmail.com>"
 }
